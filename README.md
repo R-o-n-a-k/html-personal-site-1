@@ -7,7 +7,7 @@ This project marks the **beginning of my web development journey** — the very 
 
 ## 🌐 Technologies Used
 
-- 🧱 **Frontend:** HTML5
+- 🧱 **Frontend:** HTML, CSS
 - ☁️ **Deployment:** GitHub Pages
 
 ## ✨ Features
