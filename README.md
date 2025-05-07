@@ -7,15 +7,15 @@ This project marks the **beginning of my web development journey** - the very fi
 
 ## 🛠️  Technologies Used
 
-- 🎨 **Frontend:** HTML, CSS
-- ☁️ **Deployment:** GitHub Pages
+- **Frontend:** HTML, CSS
+- **Deployment:** GitHub Pages
 
 ## ✨ Features
 
-- 📋 Clean layout using basic HTML tags
-- 🔗 Embedded external links
-- 💻 First public webpage hosted on GitHub
-- 🧑‍💻 Minimalistic and direct content presentation
+- Clean layout using basic HTML tags
+- Embedded external links
+- First public webpage hosted on GitHub
+- Minimalistic and direct content presentation
 
 ## ⚙️ Getting Started
 
@@ -26,11 +26,10 @@ To run the project locally:
 git clone https://github.com/R-o-n-a-k/html-personal-site-1.git
 cd html-personal-site-1
 ```
-
 2. **Click on index.html**
 
 ## 🌐 Live Demo
 🔗 [HTML Personal Site 1](https://r-o-n-a-k.github.io/html-personal-site-1/)
 
 <hr> 
-<p align="center">A proud milestone - the first website I ever made and published online.</p>
+<p align="center">A proud milestone - the first website I ever made and published online. 💻</p>
